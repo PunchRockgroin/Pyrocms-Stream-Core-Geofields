@@ -5,7 +5,7 @@ A very very simple implementation of Google Maps v3 API and Address - Latitude -
 
 Uses the Google Maps Javascript API v3 tied to a textfield to autocomplete geocode data in the location address field. When the address is selected, populates the map and fills in the read only lat/lng fields. Very very simple in what it does, in that it stores an address, latitude and longitude.
 
-These should be places in addons/shared_addons/field_types or whatever floats your boat.
+These should be placed in addons/shared_addons/field_types or whatever floats your boat.
 
 Typical usage:
 <pre>
